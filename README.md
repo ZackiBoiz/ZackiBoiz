@@ -1,5 +1,3 @@
-# ZackiBoiz/README.md
-
 ### Heyo! My name is ZackiBoiz. You can call me Zacki! 👋
 
 ## Projects:
@@ -7,7 +5,11 @@
 - Bookmarklets
 #### If you have any questions on my Blooket Hacks, go to my repository, and make a discussion, issue, or pull request!
 
-![](https://komarev.com/ghpvc/?username=BlooketHeck)
+### Profile Views
+![](https://komarev.com/ghpvc/?username=ZackiBoiz)
 
 ### Trophys
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZackiBoiz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=ZackiBoiz&theme=onedark)
+
+### Stats
+![](https://github-readme-streak-stats.herokuapp.com?user=ZackiBoiz&theme=dark&hide_border=true)
