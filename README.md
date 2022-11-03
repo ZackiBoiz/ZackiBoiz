@@ -1,5 +1,5 @@
 ### Heyo! My name is ZackiBoiz. You can call me Zacki! 👋
-
+<hr>
 ## Projects:
 - Blooket Hacks
 - Bookmarklets
