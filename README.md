@@ -14,4 +14,4 @@
 ### Stats
 ![](https://github-readme-streak-stats.herokuapp.com?user=ZackiBoiz&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=ZackiBoiz&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=ZackiBoiz&show_icons=true&locale=en&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=ZackiBoiz&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true)
