@@ -1,4 +1,5 @@
 ### Heyo! My name is ZackiBoiz. You can call me Zacki! 👋
+![](https://readme-typing-svg.herokuapp.com?font=cascade&color=EEEEEE&background=111111&center=true&vCenter=true&height=100&lines=Heyo!;My+name+is+ZackiBoiz!;You+can+call+me+Zacki!)
 <hr>
 ## Projects:
 - Blooket Hacks
