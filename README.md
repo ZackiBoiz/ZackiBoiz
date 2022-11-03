@@ -8,7 +8,7 @@
 ### Profile Views
 ![](https://komarev.com/ghpvc/?username=ZackiBoiz)
 
-### Trophys
+### Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZackiBoiz&theme=onedark)
 
 ### Stats
