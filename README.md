@@ -13,4 +13,4 @@
 
 ### Stats
 ![](https://github-readme-streak-stats.herokuapp.com?user=ZackiBoiz&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=ZackiBoiz&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackiBoiz&theme=dark&layout=compact)
