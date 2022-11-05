@@ -1,3 +1,10 @@
+<head>
+  <style>
+    * {
+      background-color: #111;
+    }
+  </style>
+</head>
 ![](https://readme-typing-svg.herokuapp.com?font=cascade&color=EEEEEE&background=111111&center=true&vCenter=true&height=100&duration=2500&pause=500&lines=Heyo!;My+name+is+ZackiBoiz.;You+can+call+me+Zacki.;I+like+to+hack+games;Like...;Blooket!;Check+out+my+repositories!)
 
 ## Projects:
