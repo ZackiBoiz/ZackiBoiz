@@ -28,5 +28,5 @@
 ![discord](https://discord.c99.nl/widget/theme-2/900442235760443442.png)
 
 ### Where You Can Find Me
-[![](https://img.shields.io/badge/Discord-ZackiBoiz%239947-blue?style=flat-square)](https://github.com/ZackiBoiz)
-[![](https://img.shields.io/badge/Github-%40ZackiBoiz-black?style=flat-square)](https://discord.com)
+[![github](https://img.shields.io/badge/Github-%40ZackiBoiz-black?style=flat-square)](https://github.com/ZackiBoiz)
+[![discord](https://img.shields.io/badge/Discord-ZackiBoiz%239947-blue?style=flat-square)](https://discord.com)
