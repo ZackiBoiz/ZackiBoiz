@@ -24,8 +24,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=ZackiBoiz&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=ZackiBoiz&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true)
 
-### Discord
+### Discord Status
 ![discord](https://discord.c99.nl/widget/theme-2/900442235760443442.png)
 
 ### Where You Can Find Me
-[![github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ZackiBoiz)
+[![](https://img.shields.io/badge/Discord-ZackiBoiz%239947-blue?style=flat-square)](https://github.com/ZackiBoiz)
+[![](https://img.shields.io/badge/Github-%40ZackiBoiz-black?style=flat-square)](https://discord.com)
