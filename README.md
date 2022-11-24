@@ -20,12 +20,12 @@
 ![tro](https://github-profile-trophy.vercel.app/?username=ZackiBoiz&theme=onedark)
 ![tro](https://github-trophies.vercel.app/?username=ZackiBoiz&rank=SECRET&theme=onedark)
 ### Stats
-![](https://github-readme-streak-stats.herokuapp.com?user=ZackiBoiz&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=ZackiBoiz&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=ZackiBoiz&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true)
+![stat1](https://github-readme-streak-stats.herokuapp.com?user=ZackiBoiz&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true)
+![stat2](https://github-readme-stats.vercel.app/api?username=ZackiBoiz&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true)
+![stat3](https://github-readme-stats.vercel.app/api/top-langs?username=ZackiBoiz&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true)
 
 ### Discord Status
-![discord](https://discord.c99.nl/widget/theme-2/900442235760443442.png)
+[![discordprofile](https://lanyard.cnrad.dev/api/900442235760443442)](https://discord.com/users/900442235760443442)
 
 ### Where You Can Find Me
 [![github](https://img.shields.io/badge/Github-%40ZackiBoiz-black?style=flat-square)](https://github.com/ZackiBoiz)
