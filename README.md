@@ -4,7 +4,8 @@
 - **IO Game Hacks** [Check repositories]
 - **[Website Hacks](https://github.com/ZackiBoiz/Bookmarklets/)**
 - **Random Other Hacks**
-#### If you have any questions on my Blooket Hacks, go to my repository, and make a discussion or issue.
+  
+#### If you want to contribute to a repository, feel free to open an issue or pull request!
 
 ### Profile Views
 ![views](https://komarev.com/ghpvc/?username=ZackiBoiz)
