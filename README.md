@@ -1,4 +1,4 @@
-![typing](https://readme-typing-svg.herokuapp.com?font=cascade&color=EEEEEE&background=111111&center=true&vCenter=true&height=100&duration=2500&pause=500&lines=Heyo!;My+name+is+ZackiBoiz.;You+can+call+me+Zacki.;I+like+to+hack+games;Like...;Blooket!;Check+out+my+repositories!)
+![typing](https://readme-typing-svg.herokuapp.com?font=cascade&color=EEEEEE&background=111111&center=true&vCenter=true&height=100&duration=2500&pause=500&lines=Heyo!;My+name+is+ZackiBoiz.;You+can+call+me+Zacki.;I+like+to+hack+games+like...;Blooket!;I+also+hack+my+own+games+too!;Check+out+my+repositories!)
 
 ## Projects:
 - **IO Game Hacks** [Check repositories]
@@ -32,4 +32,4 @@
 
 ### Where You Can Find Me
 [![github](https://img.shields.io/badge/Github-%40ZackiBoiz-black?style=flat-square)](https://github.com/ZackiBoiz)
-[![discord](https://img.shields.io/badge/Discord-ZackiBoiz%239947-blue?style=flat-square)](https://discord.com)
+[![discord](https://img.shields.io/badge/Discord-zackiboiz-blue?style=flat-square)](https://discord.com)
