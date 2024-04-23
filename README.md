@@ -53,5 +53,5 @@
 
 <h3 id="contacts">Where You Can Find Me</h3>
 <p><a href="https://github.com/ZackiBoiz"><img src="https://img.shields.io/badge/Github-%40ZackiBoiz-black?style=flat-square" alt="github"></a>
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-zackiboiz-blue?style=flat-square" alt="discord"></a>
+  <a href="https://discord.com/users/900442235760443442"><img src="https://img.shields.io/badge/Discord-zackiboiz-blue?style=flat-square" alt="discord"></a>
 </p>
