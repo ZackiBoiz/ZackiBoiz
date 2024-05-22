@@ -9,8 +9,7 @@
   </summary>
   <ul>
     <li><strong>IO Game Hacks</strong> [Check repositories]</li>
-    <li><strong><a href="https://github.com/ZackiBoiz/Bookmarklets/">Website Hacks</a></strong></li>
-    <li><strong>Random Other Hacks</strong></li>
+    <li><strong>Full stack web applications</strong></li>
     <li><strong>Private Projects <em>(may be released public soon)</em></strong></li>
   </ul>
   <b><em>If you feel like contributing to a repository, feel free to open an issue or pull request!</em></b>
@@ -18,18 +17,11 @@
 
 <details>
   <summary>
-    <h3 id="tools">Tools I Use</h3>
+    <h3 id="tools">Skill Set</h3>
   </summary>
-  <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="html">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3" alt="css">
-    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="js">
-    <img src="https://img.shields.io/badge/Node.JS-58a746?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="node">
-    <img src="https://img.shields.io/badge/Python-4175a1?style=flat-square&amp;logo=Python&amp;logoColor=white" alt="py">
-    <img src="https://img.shields.io/badge/C++-659bd3?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="cpp">
-    <img src="https://img.shields.io/badge/Git-f64d27?style=flat-square&amp;logo=Git&amp;logoColor=white" alt="git">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github" alt="github">
-    <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&amp;logo=Raspberry-Pi" alt="raspi">
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,jquery,nodejs,discordjs,py,cpp,linux,git,github,gitlab,raspberrypi,arduino&perline=8">
+  </a>
 </details>
 
 <details>
