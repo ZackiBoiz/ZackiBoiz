@@ -24,7 +24,7 @@
     <h3 id="tools">Skill Set</h3>
   </summary>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,jquery,nodejs,discordjs,py,cpp,linux,git,github,gitlab,raspberrypi,arduino&perline=8">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,jquery,nodejs,discordjs,py,cpp,linux,windows,git,github,raspberrypi,arduino&perline=8">
   </a>
 </details>
 
