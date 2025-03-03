@@ -18,7 +18,16 @@
   <ul>
     <li><strong>IO Game Hacks</strong> [Check repositories]</li>
     <li><strong>Full stack web applications</strong></li>
-    <li><strong>Private Projects <em>(may be released public soon)</em></strong></li>
+    <li>
+      <strong>Private Projects <em>(may be released public soon)</em></strong>
+      <ul>
+        <li><a href="https://cavegame.io">Cavegame.io</a> Client</li>
+        <li>Cavegame.io Tools/Hacks <em>(built with kmccord1)</em></li>
+        <li><a href="https://talkomatic.co">Talkomatic.co</a> Client</li>
+        <li>Talkomatic.co <a href="https://github.com/MohdYahyaMahmodi/talkomatic-classic">Development</a></li>
+        <li><a href="https://multiplayerpiano.net">Multiplayer Piano</a> Client</li>
+      </ul>
+    </li>
   </ul>
   <b><em>If you feel like contributing to a repository, feel free to open an issue or pull request!</em></b>
 </details>
