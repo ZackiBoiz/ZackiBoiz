@@ -16,7 +16,7 @@
     <h3 id="projects">Projects</h3>
   </summary>
   <ul>
-    <li><strong>IO Game Hacks</strong> [Check repositories]</li>
+    <li><strong>IO Game Hacks</strong></li>
     <li><strong>Full stack web applications</strong></li>
     <li>
       <strong>Private Projects</strong>
