@@ -36,8 +36,13 @@
   <summary>
     <h3 id="tools">Skill Set</h3>
   </summary>
+  <h4>What I Use</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,jquery,nodejs,discordjs,py,cpp,linux,windows,git,github,raspberrypi,arduino&perline=8" alt="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,discordjs,py,java,sqlite,linux,windows,git,github,raspberrypi,vscode,androidstudio,replit&perline=8" alt="Skill Icons">
+  </a>
+  <h4>Learning/Exploring</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,react,cpp,arduino&perline=8" alt="Skill Icons">
   </a>
 </details>
 
