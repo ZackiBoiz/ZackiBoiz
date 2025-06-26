@@ -1,62 +1,14 @@
-<style>
-    .modern-card {
-        display: inline-block;
-        background: linear-gradient(135deg, #232526 0%, #4EADDB 100%);
-        border-radius: 18px;
-        box-shadow: 0 4px 24px rgba(78, 173, 219, 0.15);
-        padding: 24px 36px;
-        margin: 20px 0 32px 0;
-        color: #fff;
-        font-family: 'Fira Code', 'Segoe UI', monospace;
-        transition: transform 0.15s;
-        text-align: center;
-    }
-
-    .modern-card img {
-        width: 40px;
-        height: 40px;
-        vertical-align: middle;
-        margin-right: 16px;
-        border-radius: 8px;
-        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
-    }
-
-    .modern-card span {
-        font-size: 1.5rem;
-        vertical-align: middle;
-        font-weight: 600;
-        letter-spacing: 0.5px;
-    }
-
-    .modern-badges a img {
-        margin: 0 6px 8px 6px;
-        border-radius: 8px;
-        box-shadow: 0 2px 8px rgba(78, 173, 219, 0.10);
-        transition: transform 0.12s;
-    }
-
-    .modern-badges a img:hover {
-        transform: scale(1.07);
-        box-shadow: 0 4px 16px rgba(78, 173, 219, 0.18);
-    }
-</style>
-
 <p>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=4EADDB&background=1C1C1C&center=true&vCenter=true&height=100&lines=Heyo!;My+name+is+ZackiBoiz.;...or+Zacki+for+short.;I+enjoy+hacking+games+like+Blooket.;Sometimes+janky+.io+games+as+well.;Check+out+my+repositories!" alt="Typing SVG">
     </a>
 </p>
 
-<div>
-    <a href="https://zacki.dev" target="_blank" style="text-decoration:none;">
-        <div class="modern-card">
-            <!-- <img src="https://zacki.dev/favicon.ico" alt="ZackiBoiz Website"> -->
-            <span>
-                Visit my website! <span style="color:#FF00AA;">zacki.dev</span>
-            </span>
-        </div>
-    </a>
-</div>
+<p>
+  <a href="https://zacki.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20my%20website!-zacki.dev-FF00AA?style=for-the-badge&logoColor=white" alt="zacki.dev website badge">
+  </a>
+</p>
 
 <h3 id="profile-views">Profile Views</h3>
 <p>
@@ -128,12 +80,12 @@
 <h3 id="contacts">Where You Can Find Me</h3>
 <p class="modern-badges" align="center">
     <a href="https://discord.com/users/900442235760443442">
-        <img src="https://img.shields.io/badge/Discord-zackiboiz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Contact">
+        <img src="https://img.shields.io/badge/Discord-zackiboiz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Contact" style="margin:0 6px 8px 6px;border-radius:8px;box-shadow:0 2px 8px rgba(78,173,219,0.10);">
     </a>
     <a href="https://github.com/ZackiBoiz">
-        <img src="https://img.shields.io/badge/GitHub-ZackiBoiz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contact">
+        <img src="https://img.shields.io/badge/GitHub-ZackiBoiz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contact" style="margin:0 6px 8px 6px;border-radius:8px;box-shadow:0 2px 8px rgba(78,173,219,0.10);">
     </a>
     <a href="https://replit.com/@zackiboiz">
-        <img src="https://img.shields.io/badge/Replit-%40ZackiBoiz-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Contact">
+        <img src="https://img.shields.io/badge/Replit-%40ZackiBoiz-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Contact" style="margin:0 6px 8px 6px;border-radius:8px;box-shadow:0 2px 8px rgba(78,173,219,0.10);">
     </a>
 </p>
