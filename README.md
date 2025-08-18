@@ -37,19 +37,25 @@
     </ul>
     <b><em>If you feel like contributing to a repository, feel free to open an issue or pull request!</em></b>
 </details>
-
 <details>
-    <summary>
-        <h3 id="tools">Skill Set</h3>
-    </summary>
-    <h4>What I Use</h4>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,discordjs,py,java,sqlite,linux,windows,git,github,raspberrypi,vscode,androidstudio,replit&perline=8" alt="Skill Icons">
-    </a>
-    <h4>Learning/Exploring</h4>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=tailwind,react,cpp,arduino&perline=8" alt="Skill Icons">
-    </a>
+  <summary>
+    <h3 id="tools">Skill Set</h3>
+  </summary>
+
+  <h4>What I Use</h4>
+  <h5>Languages</h5>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,java&perline=8" alt="Language Icons">
+
+  <h5>Tools & Frameworks</h5>
+  <img src="https://skillicons.dev/icons?i=bootstrap,jquery,nodejs,discordjs,sqlite,linux,windows,git,github,raspberrypi,vscode,androidstudio,replit&perline=8" alt="Tool Icons">
+
+
+  <h4>Learning/Exploring</h4>
+  <h5>Languages</h5>
+  <img src="https://skillicons.dev/icons?i=ts,cpp&perline=8" alt="Learning Language Icons">
+
+  <h5>Tools & Frameworks</h5>
+  <img src="https://skillicons.dev/icons?i=tailwind,react,arduino&perline=8" alt="Learning Tool Icons">
 </details>
 
 <details>
