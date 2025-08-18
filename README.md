@@ -72,7 +72,7 @@
             <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=ZackiBoiz&theme=dark&show_icons=true&locale=en&layout=compact&card_width=350&hide_border=true" alt="GitHub User Stats">
         </a>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZackiBoiz&theme=dark&layout=compact&card_width=350&langs_count=8&hide_border=true" alt="GitHub Language Stats">
+            <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZackiBoiz&theme=dark&layout=compact&card_width=350&langs_count=16&hide_border=true" alt="GitHub Language Stats">
         </a>
     </p>
 </details>
