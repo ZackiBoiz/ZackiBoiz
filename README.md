@@ -50,7 +50,7 @@
 
   <h5>Tools & Frameworks</h5>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,nodejs,discordjs,sqlite,linux,windows,git,github,raspberrypi,vscode,androidstudio,replit&perline=8" alt="Tool Icons">
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,nodejs,bun,discordjs,express,npm,sqlite,linux,windows,git,github,raspberrypi,vscode,androidstudio,replit,codepen&perline=8" alt="Tool Icons">
   </a>
 
 
@@ -62,7 +62,7 @@
 
   <h5>Tools & Frameworks</h5>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,react,arduino&perline=8" alt="Learning Tool Icons">
+    <img src="https://skillicons.dev/icons?i=ubuntu,tailwind,react,nextjs,arduino&perline=8" alt="Learning Tool Icons">
   </a>
 </details>
 
