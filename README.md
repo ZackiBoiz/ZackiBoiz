@@ -57,7 +57,7 @@
   <h4>Learning / Exploring</h4>
   <h5>Languages</h5>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,cpp,rust&perline=8" alt="Learning Language Icons">
+    <img src="https://skillicons.dev/icons?i=ts,cpp&perline=8" alt="Learning Language Icons">
   </a>
 
   <h5>Tools & Frameworks</h5>
@@ -65,8 +65,17 @@
     <img src="https://skillicons.dev/icons?i=ubuntu,tailwind,react,nextjs,arduino&perline=8" alt="Learning Tool Icons">
   </a>
 
-  <h6>Additional not shown</h6>
-  <small>HolyC, Cisco Packet Tracer</small>
+  <h6>(not shown)</h6>
+  <small>HolyC</small>
+
+  <h4>Want To Learn</h4>
+  <h5>Languages</h5>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,ruby&perline=8" alt="Tool Icons">
+  </a>
+
+  <h6>(not shown)</h6>
+  <small>Cisco Packet Tracer</small>
 </details>
 
 <details>
