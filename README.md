@@ -108,6 +108,9 @@
     <a href="https://discord.com/users/900442235760443442">
         <img src="https://img.shields.io/badge/Discord-zackiboiz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Contact" style="margin:0 6px 8px 6px;border-radius:8px;box-shadow:0 2px 8px rgba(78,173,219,0.10);">
     </a>
+    <a href="https://www.youtube.com/@zackiboiz">
+        <img src="https://img.shields.io/badge/YouTube-%40zackiboiz-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Contact" style="margin:0 6px 8px 6px;border-radius:8px;box-shadow:0 2px 8px rgba(78,173,219,0.10);">
+    </a>
     <a href="https://github.com/ZackiBoiz">
         <img src="https://img.shields.io/badge/GitHub-ZackiBoiz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contact" style="margin:0 6px 8px 6px;border-radius:8px;box-shadow:0 2px 8px rgba(78,173,219,0.10);">
     </a>
