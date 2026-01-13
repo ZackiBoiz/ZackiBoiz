@@ -89,7 +89,7 @@
     </p>
 </details>
 
-<details>
+<!-- <details>
     <summary>
         <h3 id="stats">Stats</h3>
     </summary>
@@ -101,7 +101,7 @@
             <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZackiBoiz&theme=dark&layout=compact&card_width=350&langs_count=16&hide_border=true" alt="GitHub Language Stats">
         </a>
     </p>
-</details>
+</details> -->
 
 <h3 id="contacts">Where You Can Find Me</h3>
 <p class="modern-badges" align="center">
@@ -110,8 +110,5 @@
     </a>
     <a href="https://github.com/ZackiBoiz">
         <img src="https://img.shields.io/badge/GitHub-ZackiBoiz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contact" style="margin:0 6px 8px 6px;border-radius:8px;box-shadow:0 2px 8px rgba(78,173,219,0.10);">
-    </a>
-    <a href="https://replit.com/@zackiboiz">
-        <img src="https://img.shields.io/badge/Replit-%40ZackiBoiz-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Contact" style="margin:0 6px 8px 6px;border-radius:8px;box-shadow:0 2px 8px rgba(78,173,219,0.10);">
     </a>
 </p>
