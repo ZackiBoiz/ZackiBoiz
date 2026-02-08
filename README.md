@@ -62,7 +62,7 @@
 
   <h5>Tools & Frameworks</h5>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,tailwind,react,nextjs,arduino&perline=8" alt="Learning Tool Icons">
+    <img src="https://skillicons.dev/icons?i=ubuntu,tailwind,svelte,react,nextjs,arduino&perline=8" alt="Learning Tool Icons">
   </a>
 
   <h6>(not shown)</h6>
